@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/macos,python,django,pycharm,windows,visualstudio,visualstudiocode
 # Edit at https://www.gitignore.io/?templates=macos,python,django,pycharm,windows,visualstudio,visualstudiocode
 
+## GitIgnore to avoid uploading acces tokens on the Twitch workshop
+IntroABotsEnTwitch/settings.py
+
 ### Django ###
 *.log
 *.pot

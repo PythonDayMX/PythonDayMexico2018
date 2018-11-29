@@ -13,16 +13,16 @@ En este workshop buscamos:
  - Crear interacciones con el bot.
 
 ## Instalación
-    1. Clona el repositorio
+1. Clona el repositorio
 ```git
 git clone https://github.com/PythonDayMX/PythonDayMexico2018.git
 
 cd PythonDayMexico2018/IntroABotsEnTwitch
 ```
-    2. [Inicia sesión](https://www.twitch.tv/login) en Twitch o [crea una cuenta](https://www.twitch.tv/signup) nueva.
-    3. Consigue tu Twitch Chat OAuth Token en esta [página](http://twitchapps.com/tmi/)
-    4. Agrega tu oauth token a el archivo `_settings.py` y cambia el nombre a `settings.py` (solo quita el `_`).
-    5. 
+2. [Inicia sesión](https://www.twitch.tv/login) en Twitch o [crea una cuenta](https://www.twitch.tv/signup) nueva.
+3. Consigue tu Twitch Chat OAuth Token en esta [página](http://twitchapps.com/tmi/)
+4. Agrega tu oauth token a el archivo `_settings.py` y cambia el nombre a `settings.py` (solo quita el `_`).
+5. 
 
 
 ## Ejecución

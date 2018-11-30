@@ -22,10 +22,23 @@ cd PythonDayMexico2018/IntroABotsEnTwitch
 2. [Inicia sesión](https://www.twitch.tv/login) en Twitch o [crea una cuenta](https://www.twitch.tv/signup) nueva.
 3. Consigue tu Twitch Chat OAuth Token en esta [página](http://twitchapps.com/tmi/)
 4. Agrega tu oauth token a el archivo `_settings.py` y cambia el nombre a `settings.py` (solo quita el `_`).
-5. 
+5. Instala los modulos necesarios `pip install -r requirements.txt`
 
 
 ## Ejecución
+¡Ejecuta `python bots.py` y listo!
 
 ## Cómo Contribuir
+¿Nos hace falta algo?¿Hay algún error? Si notas que hay algún error en el repositorio puedes crear un ISSUE nuevo para que lo corrijamos o mejor aún ayudarnos con un PULL REQUEST :tada:. Si es la primera vez que contribuyes a un proyecto no dudes en hacernos preguntas sobre como contribuir.
 
+1. Haz un fork del repositorio
+2. Crea una rama con la funcionalidad que vas a agregar: `git checkout -b my-new-feature`
+3. Guarda tus cambios: `git commit -am 'Add some feature'`
+4. Sube tu rama a tu fork: `git push origin my-new-feature`
+5. ¡Crea un Pull Request y listo! :octocat:
+
+## Creditos
+- Juan Pablo Flores [:octocat:](github.com/juanpflores)
+
+## Licencia
+Este proyecto cuenta con una Licencia GNU GENERAL PUBLIC LICENSE. Puedes revisar los detalles de la licencia en este [documento](LICENSE)

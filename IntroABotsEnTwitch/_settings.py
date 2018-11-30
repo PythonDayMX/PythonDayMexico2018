@@ -10,7 +10,7 @@
 
 
 # Configuraciones generales del IRC de Twitch.
-HOST = "irc.twitch.rv"
+HOST = "irc.twitch.tv"
 PORT = 6667
 
 
@@ -19,3 +19,4 @@ PORT = 6667
 # PASS = "oauth:kyfy0j16vlh10ccatnxue55m2p9cl7"
 
 PASS = "oauth: <TOKEN>"
+IDENT = "<USERNAME>"
